@@ -41,6 +41,6 @@ public class Main{
         
         System.out.println("EBOB = "+ebob);
         System.out.println("EKOK = "+j);
-        System.out.println("(n1*n2)/EBOB Formülüne Göre Sağlama: ("+n1+"*"+n2+")/"+ebob+" = "+saglama);
+        System.out.println("EKOK = (n1*n2)/EBOB Formülüne Göre Sağlama: "+saglama);
     }
 }
